@@ -9,7 +9,7 @@ Dev des pages internes:
 
 <a href="https://bigsyrowgraffiti.tumblr.com/Syrow" target='_blank'>Personal Page</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/Histoire" target='_blank'>Histoire</a> - 
-<a href="https://bigsyrowgraffiti.tumblr.com/Ledepart" target='_blank'>Le depart</a> - 
+<a href="https://bigsyrowgraffiti.tumblr.com/Ledepart" target='_blank'>Le Départ</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/top2014" target='_blank'>Top 2014</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/post/163189424362/lacrim" target='_blank'>Lacrim</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/post/163110077947/syrow-presentation" target='_blank'>Presentation</a> - 

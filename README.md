@@ -7,7 +7,7 @@ Homepage:
 
 Dev des pages internes:
 
-<a href="https://bigsyrowgraffiti.tumblr.com/Syrow" target='_blank'>Syrow</a> - 
+<a href="https://bigsyrowgraffiti.tumblr.com/Syrow" target='_blank'>Personal Page</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/Histoire" target='_blank'>Histoire</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/Ledepart" target='_blank'>Le depart</a> - 
 <a href="https://bigsyrowgraffiti.tumblr.com/top2014" target='_blank'>Top 2014</a> - 
